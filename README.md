@@ -1,36 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This project is not complete at the moment and it is very useful. For example, when you leave a comment under a post, that comment is not displayed immediately, and you have to refresh the page to display it, and the same is true for liking and following.
 
-## Getting Started
+## PROJECT
 
-First, run the development server:
+This project is also on Worsel, the link of which is below so that you can see it 
+https://instagram-client-three.vercel.app/ And just as rendering is used for the backend
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This project uses NodeJS, Express, MongoDB and ORM Prisma for the backend, and NexJS and Tailwind for the frontend.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This project only includes the client side, and to see the server side, you can go to https://github.com/sfewrgvserg/instagram_server
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### 100% of this project is not complete and it does not have many vital features of a site, but it is being completed
